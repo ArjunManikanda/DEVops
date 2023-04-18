@@ -1,2 +1,2 @@
 # DEVops
-devop learning
+devops learning
